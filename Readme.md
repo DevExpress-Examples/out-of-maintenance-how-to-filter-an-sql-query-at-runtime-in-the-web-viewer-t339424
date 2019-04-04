@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [WebForm1.aspx](./CS/Dashboard_CustomFilterExpression_Web/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_CustomFilterExpression_Web/WebForm1.aspx))
-* [WebForm1.aspx.cs](./CS/Dashboard_CustomFilterExpression_Web/WebForm1.aspx.cs) (VB: [WebForm1.aspx](./VB/Dashboard_CustomFilterExpression_Web/WebForm1.aspx))
+* [WebForm1.aspx.cs](./CS/Dashboard_CustomFilterExpression_Web/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/Dashboard_CustomFilterExpression_Web/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to filter an SQL query at runtime in the Web Viewer
 
