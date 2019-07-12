@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to filter an SQL query at runtime in the Web Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t339424)**
+**[[Run Online]](https://codecentral.devexpress.com/t339424/)**
 <!-- run online end -->
 
 
